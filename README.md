@@ -1,6 +1,6 @@
 # Diner Master - Food & Recipe Delivery App (UI Design Project)
 
-**Link to Live Prototype:** 
+**Link to Live Prototype:** https://erilaxh.github.io/DinerMaster-Axure-Prototype/
 
 ## Introduction
 
