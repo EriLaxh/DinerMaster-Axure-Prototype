@@ -1,5 +1,5 @@
 # Diner Master - Interactive Prototype
-An interactive prototype (Axure RP 11) for a comprehensive food, recipe, and delivery app, designed for both portrait and landscape orientations.
+An interactive prototype (Axure RP 10) for a comprehensive food, recipe, and delivery app, designed for both portrait and landscape orientations.
 
 **Link to Live Prototype:** https://erilaxh.github.io/DinerMaster-Axure-Prototype/
 
@@ -16,7 +16,7 @@ Diner Master is a comprehensive interactive prototype designed to simulate an al
 
 ## Key Technologies
 
-* **Axure RP 11:** Utilized for high-fidelity prototyping, interactive wireframing, and generating the dynamic HTML/CSS/JS output.
+* **Axure RP 10:** Utilized for high-fidelity prototyping, interactive wireframing, and generating the dynamic HTML/CSS/JS output.
 * **UI/UX Design Principles:** Applied best practices for user-centered design, information architecture, and interaction design.
 
 ---
